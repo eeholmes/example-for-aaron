@@ -31,7 +31,7 @@ Go to the download part and save as csv (or whatever).
 <img width="861" alt="image" src="https://user-images.githubusercontent.com/2545978/205973517-ea9c0c09-9ee1-408b-82c3-015c14975992.png">
 I click just generate the url since I will download the file with Python code.
 Here is the URL
-https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMGchlamday.htmlTable?chlorophyll%5B(2008-02-15T12:00:00Z):1:(2012-05-16T12:00:00Z)%5D%5B(0.0):1:(0.0)%5D%5B(21.4):1:(29.6)%5D%5B(-91.6):1:(-83.4)%5D
+[https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMGchlamday.htmlTable?chlorophyll%5B(2008-02-15T12:00:00Z):1:(2012-05-16T12:00:00Z)%5D%5B(0.0):1:(0.0)%5D%5B(21.4):1:(29.6)%5D%5B(-91.6):1:(-83.4)%5D](https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMGchlamday.csv?chlorophyll%5B(2008-02-15T12:00:00Z):1:(2012-05-16T12:00:00Z)%5D%5B(0.0):1:(0.0)%5D%5B(21.4):1:(29.6)%5D%5B(-91.6):1:(-83.4)%5D)
 
 I take this url over to my Python file chl.py
 

@@ -33,5 +33,5 @@ I click just generate the url since I will download the file with Python code.
 Here is the URL
 https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMGchlamday.csv?chlorophyll%5B(2009-04-16):1:(2011-04-16)%5D%5B(0.0):1:(0.0)%5D%5B(28.0):4:(30.8125)%5D%5B(-91.05):4:(-84.5)%5D
 
-I take this url over to my Python file chl.py
+I take this url over to my Python file chl.ipynb Jupyter notebook.
 

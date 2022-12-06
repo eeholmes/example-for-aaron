@@ -34,3 +34,6 @@ Go to the download part and save as csv (or whatever).
 I click just generate the url since I will download the file with Python code.
 Here is the URL
 https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMGchla3day.csv?chlorophyll%5B(2008-07-09T12:00:00Z):1:(2012-05-04T12:00:00Z)%5D%5B(0.0):1:(0.0)%5D%5B(25.3625):1:(33.0)%5D%5B(-91.1):1:(-83.4625)%5D
+
+I take this url over to my Python file chl.py
+
